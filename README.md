@@ -3,6 +3,7 @@
  Project Title: Simple Group Video Chat App with Agora SDK
 
 Overview:
+
 Create a user-friendly and lightweight group video chat application using standard web technologies—HTML, CSS, and JavaScript—augmented by the powerful Agora SDK for real-time communication. This project aims to provide a seamless and straightforward video conferencing experience for users to connect and communicate effortlessly.
 
 Key Features:
