@@ -26,7 +26,9 @@ Chat and Interaction:
 
 Incorporate a text chat feature alongside video, allowing users to communicate via messages during video calls.
 Implement emojis and reactions for interactive communication.
+
 Responsive Design:
+
 
 Ensure the application is responsive and works seamlessly across various devices, including desktops, tablets, and smartphones.
 User Interface Customization:
@@ -37,6 +39,7 @@ Error Handling and Notifications:
 
 Implement robust error handling to manage connectivity issues gracefully.
 Provide users with informative notifications for various events, such as joining a call, receiving a message, or errors.
+
 Security Measures:
 
 Implement secure communication protocols to protect user data and privacy.
