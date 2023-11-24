@@ -11,6 +11,7 @@ Key Features:
 User Authentication:
 
 Implement a basic authentication system to allow users to log in securely.
+
 Lobby Interface:
 
 Design an intuitive and visually appealing lobby where users can initiate or join video chat sessions.
@@ -20,6 +21,7 @@ Real-time Video Communication:
 Leverage the Agora SDK to integrate high-quality, low-latency video streaming.
 Support group video calls with multiple participants.
 Ensure a smooth video experience with features like mute, unmute, and video on/off toggles.
+
 Chat and Interaction:
 
 Incorporate a text chat feature alongside video, allowing users to communicate via messages during video calls.
